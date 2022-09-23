@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: lightblue;
+    height: 300px;
+    padding: 30px 20px;
+}
+
+main {
+    background-color: lightskyblue;
+    height: 300px;
+    padding: 30px 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    background-color: aqua;
+    height: 300px;
+    padding: 30px 20px;
+}
