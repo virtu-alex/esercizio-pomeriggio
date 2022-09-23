@@ -4,6 +4,10 @@ header {
     padding: 30px 20px;
 }
 
+img {
+    height: 50%;
+}
+
 main {
     background-color: lightskyblue;
     height: 400px;
